@@ -2,7 +2,7 @@
 - [MTA](https://multitheftauto.com/) sunucuları için yapılmış açık kaynaklı bir Discord bot projesi.
 
 # Kurulum
-- [config.json](https://github.com/sqarlex/mta-bot-v14/blob/main/config.json)'daki boşlukları doğru bir şekilde doldur.`
+- [config.json](https://github.com/sqarlex/mta-bot-v14/blob/main/config.json)'daki boşlukları doğru bir şekilde doldur.
 - Konsolu aç ve `npm run start` yaz. Botun artık hazır.
 
 # ⭐⭐⭐⭐⭐⭐⭐
