@@ -1,6 +1,5 @@
 {
   "token": "", // Discord bot token
-  "sunucid": "", // Discord sunucu ID
   "server": {
     "ip": "193.223.107.134", // MTA Sunucu IP
     "port": "22003" // MTA Sunucu port
