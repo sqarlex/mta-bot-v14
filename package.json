@@ -1,0 +1,17 @@
+{
+  "name": "mta-bot-v14",
+  "version": "1.0.0",
+  "description": "mta-bot-v14",
+  "main": "sqarlex.js",
+  "scripts": {
+    "start": "node sqarlex.js"
+  },
+  "author": "sqarlex",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "gamedig": "^4.0.5"
+  },
+    "engines": {
+    "node": "16.x"
+  }
+}
