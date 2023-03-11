@@ -1,8 +1,8 @@
 {
   "token": "", // Discord bot token
   "server": {
-    "ip": "193.223.107.134", // MTA Sunucu IP
-    "port": "22003" // MTA Sunucu port
+    "ip": "", // MTA Sunucu IP
+    "port": "" // MTA Sunucu port
   },
   "color": "#777", // Embed renk
   "duration": 777 // Bot durum değişme süresi
